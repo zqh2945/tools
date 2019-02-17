@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/menu">
+        <file>Icons/menus/SerCreate.png</file>
+        <file>Icons/menus/SerEdit.png</file>
+        <file>Icons/menus/SerStart.png</file>
+        <file>Icons/menus/SerSuspend.png</file>
+        <file>Icons/menus/SerDelete.png</file>
+        <file>Icons/menus/CliCreate.png</file>
+        <file>Icons/menus/CliEdit.png</file>
+        <file>Icons/menus/CliStart.png</file>
+        <file>Icons/menus/CliSuspend.png</file>
+        <file>Icons/menus/CliDelete.png</file>
+        <file>Icons/menus/DevEdit.png</file>
+        <file>Icons/menus/DevAddition.png</file>
+        <file>Icons/menus/DevDelete.png</file>
+        <file>Icons/menus/Quit.png</file>
+        <file>Icons/menus/About.png</file>
+    </qresource>
+    <qresource prefix="/tree">
+        <file>Icons/trees/stop.png</file>
+        <file>Icons/trees/start.png</file>
+        <file>Icons/trees/device.png</file>
+        <file>Icons/trees/linker.png</file>
+    </qresource>
+    <qresource prefix="/title">
+        <file>Icons/title.png</file>
+    </qresource>
+</RCC>
